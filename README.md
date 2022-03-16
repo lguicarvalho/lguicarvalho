@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá! 👋 
+#### Me chamo Guilherme Carvalho e sou aficionado por dados! 📊
 
 <div>
 <a href="https://github.com/lguicarvalho">
