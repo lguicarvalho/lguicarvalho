@@ -1,27 +1,16 @@
 ### Olá! 👋 
 #### Me chamo Guilherme Carvalho e sou aficionado por dados! 📊 
 
-
+# PROJETOS
+| **Nome do projeto** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tecnologias**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Acesso Rápido**| **Repositório** | **Descrição** |
+|---------------------|:---------------|:----------------:|-----------------|---------------|
+| AluraFilms          |<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"> <img title="Excel" src="https://bafybeidc2ofsumtn55d4snuqt7ywf32okh5a4fzcfkoudu6tcpar2jygxe.ipfs.infura-ipfs.io/" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img title="Power BI" src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo.png" width="70" height="40"/> </a> | <a title="AluraFilms - Dashboard" href="https://app.powerbi.com/view?r=eyJrIjoiYWU1ODIwN2YtM2QxMi00MDdlLWExMWYtYTVjOGU4OTVmODEzIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection"><img src="https://github.com/lguicarvalho/AluraFilms/blob/main/Icones/Alura_Films-03.png" width="50" height="30"></a> |                 |  Dashboard em Power BI que dispõe de uma base de dados do IMDB com 1000 filmes.            | 
+| AluraFood           |<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"> <img title="Excel" src="https://bafybeidc2ofsumtn55d4snuqt7ywf32okh5a4fzcfkoudu6tcpar2jygxe.ipfs.infura-ipfs.io/" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img title="Power BI" src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo.png" width="70" height="40"/> </a> | <a title="AluraFood - Dashboard" href="https://app.powerbi.com/view?r=eyJrIjoiZjc0YjdmMTItMDc3Yy00ODhjLTljZTItM2M1ZTI5ODYyYWVjIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection30e1b058fb4158069294"><img src="https://github.com/lguicarvalho/AluraFood/blob/main/%C3%8Dcones/Alura_Food-03.png" width="40" height="60"></a>                                                                                                                                                                                                                                                                                                          |                 |  Dashboard em Power BI que dispõe de uma base de dados com informações de milhares de Restaurantes Indianos.             |
+| Legit               |&nbsp;<a href="https://ethereum.org/" target="_blank"> <img title="Blockchain Ethereum" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" width="25" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://ipfs.io/" target="_blank"> <img title="IPFS" src="https://docs.ipfs.io/images/ipfs-logo.svg" width="40" height="40"/> </a>            | <a title="AluraFood - Dashboard" href="https://app.powerbi.com/view?r=eyJrIjoiZjc0YjdmMTItMDc3Yy00ODhjLTljZTItM2M1ZTI5ODYyYWVjIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection30e1b058fb4158069294"><img src="https://github.com/lguicarvalho/DApp-Legit/blob/master/src/design/png/oie_transparent%20(2).png" width="80" height="70"></a>                      |                 | Aplicação Descentralizada para validação e disponibilização de documentos utilizando Blockchain Ethereum e IPFS              |
+ 
 <div>
 <a href="https://github.com/lguicarvalho">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lguicarvalho&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lguicarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
-| **Nome do projeto** | **Acesso Rápido** | **Repositório** | **Descrição** |
-|---------------------|:------------------:|-----------------|---------------|
-| AluraFilms          | <a href="https://app.powerbi.com/view?r=eyJrIjoiYWU1ODIwN2YtM2QxMi00MDdlLWExMWYtYTVjOGU4OTVmODEzIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection"><img src="https://github.com/lguicarvalho/AluraFilms/blob/main/Icones/Alura_Films-03.png" width="50" height="30"></a>|                 | Dashboard em Power BI que dispõe de uma base de dados do IMDB com 1000 filmes.              |
-| AluraFood           |                   |                 | Dashboard em Power BI que dispõe de uma base de dados com informações de milhares de Restaurantes Indianos.              |
-| Legit               |                   |                 |    Aplicação Descentralizada para validação e disponibilização de documentos utilizando Blockchain Ethereum e IPFS           |
- 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
