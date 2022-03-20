@@ -1,7 +1,29 @@
 ### Olá! 👋 
 #### Me chamo Guilherme Carvalho e sou aficionado por dados! 📊 
 
-# PROJETOS
+Engenheiro Mecânico de formação, fiz MBA em Gerenciamento de Projetos pela FGV, no qual tive como projeto de conclusão uma Análise Probabilística para o Gerenciamento de Tempo em Projetos, utilizando Simulação de Monte Carlo. Nessa época eu nem sabia o que era Data Science!
+
+Após, ingressei no Mestrado do Instituto Federal Fluminense, em Sistemas Aplicados à Engenharia e Gestão, onde pude desvendar todo o universo da Indústria 4.0: Business Intelligence, Blockchain, Big Data, IoT, etc., e hoje posso afirmar que sou apaixonado por dados!
+
+Já atuei profissionalmente com vários tipos de dados: financeiros, fiscais, marketing, administrativos, RH, jurídicos, etc., e minha experiência em Gestão me permite trazer os melhores KPIs e Insights para as minhas análises!
+
+Possuo conhecimento em técnicas e ferramentas, como:
+
+- Excel
+- ETL
+- PowerBI
+- SQL
+- Python
+- Simulação de Monte Carlo
+- Datawarehouse
+
+Oportunidade? Colaboração em Projeto? Freelancer?
+
+Sinta-se à vontade para entrar em contato!
+
+lguicarvalho@hotmail.com
+
+## Explore meus Projetos 
 | **Nome do projeto** | &nbsp;&nbsp;&nbsp;**Tecnologias**&nbsp;&nbsp;&nbsp; | **Acesso Rápido**| **Descrição** |
 |:-------------------:|:---------------|:----------------:|---------------|
 | <a href="https://github.com/lguicarvalho/AluraFilms">AluraFilms</a> |<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"> <img title="Excel" src="https://bafybeidc2ofsumtn55d4snuqt7ywf32okh5a4fzcfkoudu6tcpar2jygxe.ipfs.infura-ipfs.io/" width="30" height="30"/> </a> <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img title="Power BI" src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo.png" width="55" height="30"/> </a> | <a title="AluraFilms - Dashboard" href="https://app.powerbi.com/view?r=eyJrIjoiYWU1ODIwN2YtM2QxMi00MDdlLWExMWYtYTVjOGU4OTVmODEzIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection"><img src="https://github.com/lguicarvalho/AluraFilms/blob/main/Icones/Alura_Films-03.png" width="50" height="30"></a>  |  Dashboard em Power BI que dispõe de uma base de dados do IMDB com 1000 filmes.            | 
