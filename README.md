@@ -12,9 +12,10 @@ Possuo conhecimento em técnicas e ferramentas, como:
 - Excel
 - ETL
 - PowerBI
+- DAX
 - SQL
 - Python
-- Simulação de Monte Carlo
+- JavaScript
 - Datawarehouse
 
 Oportunidade? Colaboração em Projeto? Freelancer?
