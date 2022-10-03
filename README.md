@@ -5,7 +5,7 @@ Engenheiro Mecânico de formação, fiz MBA em Gerenciamento de Projetos pela FG
 
 Após, ingressei no Mestrado do Instituto Federal Fluminense, em Sistemas Aplicados à Engenharia e Gestão, onde pude desvendar todo o universo da Indústria 4.0: Business Intelligence, Blockchain, Big Data, IoT, etc., e hoje posso afirmar que sou apaixonado por dados!
 
-Já atuei profissionalmente com vários tipos de dados: financeiros, fiscais, marketing, administrativos, RH, jurídicos, etc., e minha experiência em Gestão me permite trazer os melhores KPIs e Insights para as minhas análises!
+Já atuei profissionalmente com vários tipos de dados: comerciais, sucesso do cliente, financeiros, fiscais, marketing, administrativos, RH, jurídicos, etc., e minha experiência em Gestão me permite trazer os melhores KPIs e Insights para as minhas análises!
 
 Possuo conhecimento em técnicas e ferramentas, como:
 
